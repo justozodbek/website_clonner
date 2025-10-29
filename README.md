@@ -1,6 +1,6 @@
 # 🌐 Clonify
 
-![Banner][(https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxqNXE4OHo4bmFqMGdmanFlemowaXdmeXdycDhyc3ltdzk2MHV0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TlK63EA6F1qRb7lll6M/giphy.gif)
+![Banner](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 > ✨ A modern, responsive, and creative website built with love and clean code.
 
